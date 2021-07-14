@@ -1,8 +1,9 @@
 # EAO-SLAM-Improve
 Ref to EAO-SLAM, add and change some new points.
 
-1> Reference: https://github.com/yanmin-wu/EAO-SLAM
-              https://github.com/xiaoxifuhongse/ORB-SLAM-RGBD-with-Octomap
+1> Reference: https://github.com/yanmin-wu/EAO-SLAM \
+              https://github.com/xiaoxifuhongse/ORB-SLAM-RGBD-with-Octomap \
+              https://github.com/bianjingshan/MOT-deepsort \
               
 2> Done: 1. Opencv4 Support
          2. YOLO Model support for online
