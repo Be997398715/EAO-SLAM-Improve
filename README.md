@@ -1,6 +1,5 @@
-# EAO-SLAM-Improve
-Ref to EAO-SLAM, add and change some new points.
-
+# EAO-SLAM-Improve \
+# VERSION 1.0 \
 1> Reference: \
                   https://github.com/yanmin-wu/EAO-SLAM \
                   https://github.com/xiaoxifuhongse/ORB-SLAM-RGBD-with-Octomap \
@@ -21,6 +20,11 @@ Ref to EAO-SLAM, add and change some new points.
           
 4> Results: \
 
+
+
+5> Usage: \
+            for mono: build/mono_tum Full data/rgbd_dataset_freiburg3_long_office_household/ Vocabulary/ORBvoc.bin Examples/Monocular/TUM3.yaml online  \
+            for rgbd: build/rgbd_tum Vocabulary/ORBvoc.bin Examples/RGB-D/TUM3.yaml data/rgbd_dataset_freiburg3_long_office_household/ Examples/RGB-D/associations.txt Full online   
 
           
           
