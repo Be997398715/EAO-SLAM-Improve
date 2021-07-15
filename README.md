@@ -22,14 +22,14 @@
 4> Results: \
             Only compare with data association here: \
             1. EAO results with track 
-            ![EAO-Only](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/EAO-only.png)
-            ![EAO-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/eao-with-track.png) 
+            ![EAO-Only](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/EAO-only.png) EAO-Only
+            ![EAO-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/eao-with-track.png) EAO-With-Track
             2. IOU results with track 
-            ![Iou-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/iou-with-track.png) 
+            ![Iou-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/iou-with-track.png) Iou-With-Track 
             3. FULL results with track 
-            ![Full-Only](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/full.png)
-            ![Full-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/full-with-track.png) 
-            These results show 2d-track is useful for data association, while using better tracker, results getting better.
+            ![Full-Only](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/full.png) Full-Only
+            ![Full-With-Track](https://github.com/Be997398715/EAO-SLAM-Improve/blob/v1.0/EAO-SLAM-master-improve/figures/full-with-track.png) Full-With-Track
+            These results test online and show 2d-track is useful for data association, while using better tracker, results getting better.
             
             
 
