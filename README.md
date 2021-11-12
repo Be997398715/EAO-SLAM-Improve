@@ -1,5 +1,6 @@
 # EAO-SLAM-Improve 
 # VERSION 1.0 
+# Final Project has been proposed at https://github.com/Be997398715/EAO-SLAM-Final. Welcome for staring!
 1> Reference: \
                   https://github.com/yanmin-wu/EAO-SLAM \
                   https://github.com/xiaoxifuhongse/ORB-SLAM-RGBD-with-Octomap \
